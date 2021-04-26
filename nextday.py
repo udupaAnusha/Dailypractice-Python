@@ -1,3 +1,4 @@
+#if-elif-else
 year = int(input("Input a year: "))
 
 if (year % 400 == 0):
